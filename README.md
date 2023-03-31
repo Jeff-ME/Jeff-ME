@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="200" />
+</div>
 
-<!--
-**Jeff-ME/Jeff-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hola 👋, Soy Jefferson
+Soy de Colombia y un estudiante de ingeniería de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algo sobre mi
+Estoy comenzando en este mundo así que simplemente soy un entusiasta que planea aprender. 
+
+
+---
+# Habilidades
+- Conocimiento básico en HTML5, CSS y Markdown.
+
+- Conocimiento básico en C++.
+
+- Habilidades de pensamiento crítico, toma de decisiones y resolución de problemas.
